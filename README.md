@@ -13,7 +13,20 @@
 
 - 🤝 I’m looking for help with **AI, NLP, and Ethical Hacking projects**
 
-- 📝 About Soulverse [Soulverse is a mood-based Islamic guidance app that provides Quranic Ayat, Hadith, and Duas based on predefined emotional categories. Users select a mood such as happiness, sadness, anxiety, or depression, and the app suggests appropriate verses, prayers, and prophetic sayings. • Tech Stack: Flutter (Frontend), Firebase (Backend) • Core Features: • Predefined mood categories • Suggested Ayat, Hadith, and Duas based on mood • User-friendly interface • Bookmark and history tracking • Multi-language support](Soulverse is a mood-based Islamic guidance app that provides Quranic Ayat, Hadith, and Duas based on predefined emotional categories. Users select a mood such as happiness, sadness, anxiety, or depression, and the app suggests appropriate verses, prayers, and prophetic sayings. • Tech Stack: Flutter (Frontend), Firebase (Backend) • Core Features: • Predefined mood categories • Suggested Ayat, Hadith, and Duas based on mood • User-friendly interface • Bookmark and history tracking • Multi-language support)
+- 📝 About Soulverse [Soulverse is a mood-based Islamic guidance app that provides Quranic Ayat, Hadith, and Duas based on predefined emotional categories. Users select a mood such as happiness, sadness, anxiety, or depression, and the app suggests appropriate verses, prayers, and prophetic sayings.
+-  • Tech Stack: Flutter (Frontend), Firebase (Backend)
+-  • Core Features:
+-  • Predefined mood categories
+-  • Suggested Ayat, Hadith, and Duas based on mood
+-  • User-friendly interface • Bookmark and history tracking
+-   • Multi-language support](Soulverse is a mood-based Islamic guidance app that provides Quranic Ayat, Hadith, and Duas based on predefined emotional categories. Users select a mood such as happiness, sadness, anxiety, or depression, and the app suggests appropriate verses, prayers, and prophetic sayings.
+-    • Tech Stack: Flutter (Frontend), Firebase (Backend)
+- • Core Features:
+-  • Predefined mood categories
+-   • Suggested Ayat, Hadith, and Duas based on mood
+-  • User-friendly interface
+-   • Bookmark and history tracking
+-   • Multi-language support)
 
 - 💬 Ask me about **Flutter, Firebase, Python , and Mobile App Development**
 
