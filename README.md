@@ -1,46 +1,83 @@
-<h1 align="center">Hi 👋, I'm I AM SAMAD</h1>
-<h3 align="center">Am a Student OF BS Software Engineering from Pakistan</h3>
+# Hi, I'm Samad 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fitawan&label=Profile%20views&color=0e75b6&style=flat" alt="fitawan" /> </p>
+### Software Engineering Graduate | Aspiring Cybersecurity Professional
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fitawan" alt="fitawan" /></a> </p>
+I'm a Software Engineering graduate from Pakistan, interested in cybersecurity, computer systems, and secure software development.
 
-- 🔭 I am passionate about **Ethical Hacking, AI, and Software Development**
+Currently, I'm preparing for the **CompTIA PenTest+ CE certification** and developing practical cybersecurity skills through Kali Linux and authorized lab environments.
 
-- 🌱 I’m currently learning **AI, Machine Learning, Ethical Hacking, and Generative AI**
+My academic goal is to pursue an **MSc in Computer Engineering at the University of Pavia, Italy**, with a focus on cybersecurity.
 
-- 👯 I’m currently developing **Soulverse – A Mood-Based Quranic Guidance App**
+---
 
-- 🤝 I’m looking for help with **AI, NLP, and Ethical Hacking projects**
+## 🎯 Current Learning Focus
 
-- 📝 About Soulverse [Soulverse is a mood-based Islamic guidance app that provides Quranic Ayat, Hadith, and Duas based on predefined emotional categories. Users select a mood such as happiness, sadness, anxiety, or depression, and the app suggests appropriate verses, prayers, and prophetic sayings.
--  • Tech Stack: Flutter (Frontend), Firebase (Backend)
--  • Core Features:
--  • Predefined mood categories
--  • Suggested Ayat, Hadith, and Duas based on mood
--  • User-friendly interface • Bookmark and history tracking
--   • Multi-language support](Soulverse is a mood-based Islamic guidance app that provides Quranic Ayat, Hadith, and Duas based on predefined emotional categories. Users select a mood such as happiness, sadness, anxiety, or depression, and the app suggests appropriate verses, prayers, and prophetic sayings.
--    • Tech Stack: Flutter (Frontend), Firebase (Backend)
-- • Core Features:
--  • Predefined mood categories
--   • Suggested Ayat, Hadith, and Duas based on mood
--  • User-friendly interface
--   • Bookmark and history tracking
--   • Multi-language support)
+- Cybersecurity fundamentals and penetration testing
+- Network security and network reconnaissance
+- Linux administration and Kali Linux
+- Web application security and OWASP Top 10
+- Python programming and security automation
+- Vulnerability assessment and security reporting
 
-- 💬 Ask me about **Flutter, Firebase, Python , and Mobile App Development**
+## 🛠️ Technical Skills & Tools
 
-- 📫 How to reach me **Samadawan143@gmail.com**
+**Programming**
+- Python
+- C / C++
+- SQL
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+**Cybersecurity**
+- Kali Linux
+- Nmap
+- Burp Suite
+- Wireshark
+- Metasploit (authorized lab environments)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> </p>
+**Development**
+- Flutter
+- Firebase
+- Git & GitHub
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fitawan&show_icons=true&locale=en&layout=compact" alt="fitawan" /></p>
+**Virtualization & Practice**
+- VirtualBox
+- TryHackMe
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fitawan&show_icons=true&locale=en" alt="fitawan" /></p>
+## 🚀 Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fitawan&" alt="fitawan" /></p>
+### 1. Security Log Analyzer
+A Python-based defensive security tool for analyzing authentication logs, identifying repeated failed login attempts, and generating security reports.
+
+### 2. File Encryption Tool
+An educational Python project demonstrating file encryption and decryption using established cryptographic libraries.
+
+### 3. Soul Verse
+An undergraduate mobile application developed using Flutter and Firebase.
+
+The application provides Quranic verses, Hadith, and Duas based on user-selected mood categories.
+
+---
+
+## 🎓 Education
+
+**Bachelor of Science in Software Engineering (BSSE)**
+
+## 📜 Certifications & Professional Learning
+
+- TryHackMe Pre-Security Certificate
+- TryHackMe Advent Cyber Certificate
+- CompTIA PenTest+ CE — Currently preparing
+
+## 📊 GitHub Statistics
+
+I regularly work on Python programming, Linux, cybersecurity fundamentals, and practical software development projects.
+
+Follow my repositories to explore my learning journey and technical work.
+---
+
+## 🤝 Connect With Me
+
+- GitHub: [@fitawan](https://github.com/fitawan)
+
+---
+
+*Learning continuously. Building practically. Securing responsibly.*
